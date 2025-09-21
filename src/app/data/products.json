@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Extra Premium Tea",
+    "price": 100,
+    "discountPrice": 88,
+    "description": "Finest quality premium tea blend with rich aroma and exceptional taste for tea connoisseurs",
+    "image": "/images/rajwadi-products/EXTRA PREMIUM TEA.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Umaraj Tea",
+    "price": 100,
+    "discountPrice": 88,
+    "description": "Traditional Indian tea blend with perfect balance of strength and flavor for everyday enjoyment",
+    "image": "/images/rajwadi-products/UMARAJ CHA.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Rajwadi Red Packet Tea (250g)",
+    "price": 105,
+    "discountPrice": 90,
+    "description": "Premium Rajwadi tea in convenient 250g red packet - Since 1993, delivering authentic taste and quality",
+    "image": "/images/rajwadi-products/Rajwadi Red Packet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Extra Premium Tea (500g)",
+    "price": 200,
+    "discountPrice": 176,
+    "description": "Finest quality premium tea blend with rich aroma and exceptional taste - 500g family pack",
+    "image": "/images/rajwadi-products/EXTRA PREMIUM TEA.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Extra Premium Tea (1kg)",
+    "price": 400,
+    "discountPrice": 352,
+    "description": "Finest quality premium tea blend with rich aroma and exceptional taste - 1kg bulk pack",
+    "image": "/images/rajwadi-products/EXTRA PREMIUM TEA.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Umaraj Tea (500g)",
+    "price": 200,
+    "discountPrice": 176,
+    "description": "Traditional Indian tea blend with perfect balance of strength and flavor - 500g family pack",
+    "image": "/images/rajwadi-products/UMARAJ CHA.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Umaraj Tea (1kg)",
+    "price": 400,
+    "discountPrice": 352,
+    "description": "Traditional Indian tea blend with perfect balance of strength and flavor - 1kg bulk pack",
+    "image": "/images/rajwadi-products/UMARAJ CHA.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Rajwadi Red Packet Tea (500g)",
+    "price": 210,
+    "discountPrice": 180,
+    "description": "Premium Rajwadi tea in convenient 500g red packet - Since 1993, delivering authentic taste and quality",
+    "image": "/images/rajwadi-products/Rajwadi Red Packet.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rajwadi Red Packet Tea (1kg)",
+    "price": 420,
+    "discountPrice": 360,
+    "description": "Premium Rajwadi tea in convenient 1kg red packet - Since 1993, delivering authentic taste and quality",
+    "image": "/images/rajwadi-products/Rajwadi Red Packet.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rajwadi Blue Tea (250g)",
+    "price": 80,
+    "discountPrice": 70,
+    "description": "Classic Rajwadi tea blend in elegant blue packaging - Traditional recipe for perfect tea experience",
+    "image": "/images/rajwadi-products/Rajwadi Tea Blue.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mohini Agarbati",
+    "price": 70,
+    "discountPrice": 50,
+    "description": "Premium quality incense sticks with enchanting floral fragrance for daily prayers and meditation",
+    "image": "/images/rajwadi-products/MOHINI AGARBATI.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Smile Agarbati",
+    "price": 70,
+    "discountPrice": 50,
+    "description": "Uplifting incense sticks that bring joy and positivity to your home and worship space",
+    "image": "/images/rajwadi-products/SMILE AGARBATI.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Zamku Agarbati",
+    "price": 70,
+    "discountPrice": 50,
+    "description": "Premium quality incense sticks with long-lasting fragrance for spiritual and home use",
+    "image": "/images/rajwadi-products/Zamku Agarbati.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Agarbati Blackberry",
+    "price": 70,
+    "discountPrice": 50,
+    "description": "Unique blackberry scented incense sticks for a refreshing and fruity aroma experience",
+    "image": "/images/rajwadi-products/AGARBATI BLACKBERRY.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Fruit Collection Agarbati",
+    "price": 70,
+    "discountPrice": 50,
+    "description": "Delightful collection of fruit-scented incense sticks for a vibrant and fresh ambiance",
+    "image": "/images/rajwadi-products/FRUITCOLLECTION AGARBATI.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Meera Dhup",
+    "price": 70,
+    "discountPrice": 50,
+    "description": "Traditional dhup cones with rich, long-lasting fragrance for spiritual ceremonies and rituals",
+    "image": "/images/rajwadi-products/MEERA DHUP.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Himalaya Premium Agarbati (3 in 1)",
+    "price": 130,
+    "discountPrice": 100,
+    "description": "Special Himalayan agarbati blend with 3-in-1 formula for rich fragrance and aroma",
+    "image": "/images/rajwadi-products/Himalaya 130 MRP(3 in 1) - website price 100.jpg"
+  },
+  {
+    "id": 18,
+    "name": "4in1 Collection Rajwadi",
+    "price": 130,
+    "discountPrice": 100,
+    "description": "Premium collection of 4 different incense stick varieties in one pack for complete aromatic experience",
+    "image": "/images/rajwadi-products/4in1collection Rajwadi.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Panchratna Premium Incense Sticks",
+    "price": 130,
+    "discountPrice": 100,
+    "description": "Premium Panchratna incense sticks with spiritual meditation design - Perfect for yoga and deep contemplation",
+    "image": "/images/rajwadi-products/Panchratna Premium sticks.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Premium 5in1  Collection",
+    "price": 130,
+    "discountPrice": 100,
+    "description": "Luxury 5-in-1 premium incense stick collection with elegant perfume-inspired fragrances for sophisticated aromatherapy",
+    "image": "/images/rajwadi-products/Premium 5in1.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Bal Krishna Premium Incense Sticks",
+    "price": 25,
+    "discountPrice": 20,
+    "description": "Sacred Bal Krishna incense sticks with divine peacock feather design - Perfect for devotional prayers and spiritual ceremonies",
+    "image": "/images/rajwadi-products/Bal Krishana Rajwadi Agarbatu.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Rasleela Agarbati",
+    "price": 25,
+    "discountPrice": 20,
+    "description": "Divine incense sticks inspired by traditional Indian culture with mesmerizing fragrance",
+    "image": "/images/rajwadi-products/Rasleela Agarbati.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Smile Agarbati (₹25 Pack)",
+    "price": 25,
+    "discountPrice": 20,
+    "description": "Affordable pack of uplifting incense sticks that bring joy and positivity to your home",
+    "image": "/images/rajwadi-products/SMILE AGARBATI.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Zamku Agarbati (₹25 Pack)",
+    "price": 25,
+    "discountPrice": 20,
+    "description": "Budget-friendly premium quality incense sticks with long-lasting fragrance",
+    "image": "/images/rajwadi-products/Zamku Agarbati.jpg"
+  }
+]
