@@ -72,7 +72,7 @@ const Navbar: React.FC = () => {
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-2xl font-heading font-semibold text-rajwadi-brown">
-                  Rajubhai's Rajwadi
+                  Rajubhai&apos;s Rajwadi
                 </h1>
                 <p className="text-xs text-rajwadi-brown/60 font-body -mt-1">
                   Premium Incense Sticks & Tea

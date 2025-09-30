@@ -8,26 +8,6 @@ import { motion } from 'framer-motion';
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
 
-  const footerLinks = {
-    company: [
-      { name: 'About Us', href: '/about' },
-      { name: 'Our Story', href: '/story' },
-      { name: 'Quality Promise', href: '/quality' },
-      { name: 'Careers', href: '/careers' },
-    ],
-    products: [
-      { name: 'Incense Sticks', href: '#menu' },
-      { name: 'Dhup Collection', href: '#menu' },
-      { name: 'Premium Tea', href: '#menu' },
-      { name: 'Sacred Collection', href: '#menu' },
-    ],
-    support: [
-      { name: 'Contact Us', href: '/contact' },
-      { name: 'FAQ', href: '/faq' },
-      { name: 'Shipping Info', href: '/shipping' },
-      { name: 'Returns', href: '/returns' },
-    ],
-  };
 
   const socialLinks = [
     {
@@ -97,7 +77,7 @@ const Footer: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-2xl font-heading font-bold text-rajwadi-gold">
-                    Rajubhai's Rajwadi
+                    Rajubhai&apos;s Rajwadi
                   </h3>
                   <p className="text-base text-gray-200 font-body">
                     Premium Incense & Tea
@@ -243,7 +223,7 @@ const Footer: React.FC = () => {
                 viewport={{ once: true }}
                 className="text-gray-400 font-body"
               >
-                © {currentYear} Rajubhai's Rajwadi Pvt. Ltd. All rights reserved.
+                © {currentYear} Rajubhai&apos;s Rajwadi Pvt. Ltd. All rights reserved.
               </motion.p>
 
               {/* Social Links */}
