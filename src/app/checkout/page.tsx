@@ -93,7 +93,7 @@ const CheckoutPage: React.FC = () => {
     
     if (paymentMethod === 'whatsapp') {
       // WhatsApp Payment
-      const whatsappNumber = '919876543210'; // Your WhatsApp number
+      const whatsappNumber = '918200558732'; // Your WhatsApp number
       const itemsList = items.map(item => 
         `• ${item.name} x ${item.quantity} = ₹${((item.discountPrice || item.price) * item.quantity).toFixed(2)}`
       ).join('\n');
