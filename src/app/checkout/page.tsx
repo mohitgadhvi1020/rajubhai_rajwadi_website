@@ -295,21 +295,6 @@ Please confirm this order and share payment details. Thank you! 🙏`;
                           Send order details via WhatsApp and get payment options (UPI, Bank Transfer, etc.)
                         </p>
                       </div>
-                      
-                      <div className="flex items-center">
-                        <input
-                          id="cod"
-                          name="payment-method"
-                          type="radio"
-                          value="cod"
-                          checked={paymentMethod === 'cod'}
-                          onChange={(e) => setPaymentMethod(e.target.value as 'cod' | 'whatsapp')}
-                          className="h-4 w-4 text-yellow-600 focus:ring-yellow-500 border-gray-300"
-                        />
-                        <label htmlFor="cod" className="ml-3 block text-sm font-medium text-gray-700">
-                          💵 Cash on Delivery
-                        </label>
-                      </div>
                     </div>
                   </div>
                   
