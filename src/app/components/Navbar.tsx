@@ -86,7 +86,7 @@ const Navbar: React.FC = () => {
             {[
               { name: 'Home', href: '/' },
               { name: 'Our Products', href: '#menu' },
-              { name: 'About', href: '#about' },
+              { name: 'About', href: '/about' },
               { name: 'Contact Us', href: '/contact' },
             ].map((item, index) => (
               <NavLink
@@ -184,7 +184,7 @@ const Navbar: React.FC = () => {
                 {[
                   { name: 'Home', href: '/' },
                   { name: 'Our Products', href: '#menu' },
-                  { name: 'About', href: '#about' },
+                  { name: 'About', href: '/about' },
                   { name: 'Contact Us', href: '/contact' },
                 ].map((item) => (
                   <MobileNavLink
